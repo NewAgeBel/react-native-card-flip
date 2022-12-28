@@ -1,6 +1,6 @@
 {
   "name": "@newagebel/react-native-card-flip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Card flip animation for React Native",
   "main": "index.js",
   "scripts": {
